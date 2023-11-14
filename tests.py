@@ -1,5 +1,4 @@
 from main import BooksCollector
-
 class TestBooksCollector:
 
     # пример теста:
